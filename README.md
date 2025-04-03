@@ -9,3 +9,5 @@ Equator is a symbolic computation tool that reads equations from a file and gene
 - Generates all possible transformations of the equations
 - Supports a variety of mathematical operations and transformations
 - Outputs the derived equations to a file
+- Can handle complex equations with multiple variables and operations
+- Includes a set of predefined transformation rules
